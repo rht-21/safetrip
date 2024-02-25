@@ -1,6 +1,6 @@
 # SafeTrip - Car Rental Landing Page
 
-SafeTrip is a responsive landing page for a car rental website, designed and implemented using HTML, CSS, and JavaScript. It provides users with a visually appealing interface to learn about the car rental services offered and encourages them to take action.
+SafeTrip is a responsive landing page for a car rental website, designed and implemented using HTML and CSS. It provides users with a visually appealing interface to learn about the car rental services offered and encourages them to take action.
 
 ![SafeTrip Landing Page](screenshot.png)
 
